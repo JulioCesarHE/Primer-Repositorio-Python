@@ -1,4 +1,4 @@
-a=5
-b=2
+a=int(input("Ingrese el primer número: "))
+b=int(input("Ingrese el segundo número: "))
 c=a+b
-print("La suma de a y b es: ",c)
+print("La suma es: ",c)
